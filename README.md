@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @NgariDS-Pro  
+# 👋 Hi, I’m Fred. 
 Welcome to my GitHub profile!  
 
 ---
