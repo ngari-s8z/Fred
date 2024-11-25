@@ -10,7 +10,7 @@ Welcome to my GitHub profile!
 - 📫 **How to reach me**:  
   - Email: [fngarimwaniki.rc@gmail.com](mailto:fngarimwaniki.rc@gmail.com)  
   - LinkedIn: [Fred Mwaniki](https://www.linkedin.com/in/ngarianalytics)  
-  - GitHub: [Fred Mwaniki](https://github.com/NgariDS-Pro)  
+  - GitHub: [Fred Mwaniki](https://github.com/ngari-s8z)  
 - 😄 **Pronouns**: He/Him.  
 - ⚡ **Fun fact**: I believe every dataset tells a story, and I love unlocking its secrets!  
 
@@ -53,7 +53,7 @@ Welcome to my GitHub profile!
   <a href="mailto:fngarimwaniki.rc@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/NgariDS-Pro" target="_blank">
+  <a href="https://github.com/ngari-s8z" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
