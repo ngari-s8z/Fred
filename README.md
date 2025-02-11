@@ -38,9 +38,9 @@ Welcome to my GitHub profile!
 
 ## 📊 My GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NgariDS-Pro&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NgariDS-Pro&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgariDS-Pro&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ngari-s8z&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ngari-s8z&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngari-s8z&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
